@@ -16,3 +16,4 @@ layout: post
     font-style: italic;
     font-weight: normal;
   }`
+`Inline Code Snippet` 
