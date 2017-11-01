@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"code",
+				"code\tcode"
+			],
+			[
 				"a",
 				"a\t<a href=\"mailto:\"> "
 			],
@@ -23,13 +27,17 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "jek",
+		"height": 179.0,
+		"last_filter": "jekyll new",
 		"selected_items":
 		[
 			[
+				"jekyll new",
+				"Jekyll: New post from template"
+			],
+			[
 				"jek",
-				"Jekyll: New post"
+				"Jekyll: Edit template"
 			],
 			[
 				"jekyll set",
@@ -85,18 +93,23 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/cc/Desktop/Coding/JS/testJekyll"
+		"/Users/cc/Desktop/Coding/JS/testJekyll",
+		"/Users/cc/Desktop/Coding/JS/testJekyll/_drafts",
+		"/Users/cc/Desktop/Coding/JS/testJekyll/_layouts",
+		"/Users/cc/Desktop/Coding/JS/testJekyll/_posts"
 	],
 	"file_history":
 	[
-		"/Users/cc/Desktop/TestProject.sublime-project",
+		"/Users/cc/Desktop/Coding/JS/testJekyll/_layouts/default.html",
+		"/Users/cc/Desktop/Coding/JS/testJekyll/_posts/2017-10-23-testpost.markdown",
+		"/Users/cc/Desktop/Coding/JS/testJekyll/_posts/2017-10-23-testtemp.markdown",
+		"/Users/cc/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/testjekylltemplate.yaml",
 		"/Users/cc/Desktop/Coding/JS/testJekyll/_posts/2017-10-23-Test-Frist.md",
+		"/Users/cc/Desktop/TestProject.sublime-project",
 		"/Users/cc/Library/Application Support/Sublime Text 3/Packages/Jekyll/Jekyll.sublime-settings",
 		"/Users/cc/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
-		"/Users/cc/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/testjekylltemplate.yaml",
 		"/Users/cc/Desktop/untitled.md",
 		"/Users/cc/Desktop/Coding/JS/testJekyll/index.html",
-		"/Users/cc/Desktop/Coding/JS/testJekyll/_layouts/default.html",
 		"/Users/cc/Desktop/Coding/JS/testJekyll/_config.yml",
 		"/Users/cc/Desktop/Coding/JS/testJekyll/_posts/2017-08-25-hello-world.html",
 		"/Users/cc/Desktop/Coding/JS/testJekyll/README.md",
@@ -129,6 +142,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"yourmysqlrootpassword",
+			"`"
 		],
 		"highlight": true,
 		"in_selection": false,
