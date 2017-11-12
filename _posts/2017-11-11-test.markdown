@@ -14,4 +14,4 @@
 
 add image
 
-![](Test/test.jpg)
+![]({{"Test/test.jpg" | absolute_url}})
