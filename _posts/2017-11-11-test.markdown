@@ -14,4 +14,4 @@
 
 add image
 
-![](Test/Test/test.jpg)
+![](Test/test.jpg)
